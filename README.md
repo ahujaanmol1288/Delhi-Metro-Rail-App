@@ -3,7 +3,7 @@ This is a desktop app which will provide a solution to finding the shortest avai
 #..#
 
 
-This code is a private property of Chitrank Mishra. All Rights Reserved.
+This code is a private property of Anmol Ahuja. All Rights Reserved.
 
 
 Hacktoberfest PR 3
